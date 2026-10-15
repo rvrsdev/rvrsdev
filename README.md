@@ -34,4 +34,10 @@
 
 <h2 align="center"> My projects</h2>
 
-### [Fluid Balance](https://play.google.com/store/apps/details?id=com.riverstudio.fluidbalance)
+### Fluid Balance
+<img src="fluid_balance_icon_rounded.png" width="128" alt="Fluid Balance Icon" />
+<a href="https://play.google.com/store/apps/details?id=com.riverstudio.fluidbalance">
+  <img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png"
+       alt="Get it on Google Play"
+       height="60" />
+</a>
