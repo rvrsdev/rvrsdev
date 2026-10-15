@@ -31,3 +31,7 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
 </p>
+
+<h2 align="center"> My projects</h2>
+
+### [Fluid Balance](https://play.google.com/store/apps/details?id=com.riverstudio.fluidbalance)
