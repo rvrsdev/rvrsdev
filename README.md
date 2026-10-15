@@ -33,11 +33,28 @@
 </p>
 
 <h2 align="center"> My projects</h2>
-
-### Fluid Balance
-<img src="fluid_balance_icon_rounded.png" width="128" alt="Fluid Balance Icon" />
-<a href="https://play.google.com/store/apps/details?id=com.riverstudio.fluidbalance">
-  <img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png"
-       alt="Get it on Google Play"
-       height="60" />
-</a>
+<table width="100%" border="0" cellspacing="0" cellpadding="0" align="center">
+  <tr>
+    <td width="256" align="center" valign="center">
+      <img src="fluid_balance_icon_rounded.png" width="256" alt="Fluid Balance icon" />
+      <br/>
+      <a href="https://play.google.com/store/apps/details?id=com.riverstudio.fluidbalance">
+        <img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png"
+             alt="Get it on Google Play"
+             height="128" />
+      </a>
+    </td>
+    <td align="center" valign="middle">
+      <h2 align="center">Fluid Balance</h2>
+      <p align="center">
+        A minimalistic water sort game.<br/>
+        Sort the liquids, complete each level and keep the balance.
+      </p>
+       <p align="center">
+        <img src="fb1.jpg" height="256" alt="Fluid Balance screenshot 1" />
+        <img src="fb2.jpg" height="256" alt="Fluid Balance screenshot 2" />
+        <img src="fb3.jpg" height="256" alt="Fluid Balance screenshot 3" />
+      </p>
+    </td>
+  </tr>
+</table>
