@@ -1,4 +1,4 @@
-<h1 align="center"> Hi, I'm rvrsdev</h1>
+<h1 align="center">rvrsdev</h1>
 
 <p align="center">
   I'm mainly an indie game developer, but I'm also interested in music and web development.
