@@ -48,8 +48,7 @@
     <td align="center" valign="middle">
       <h2 align="center">Fluid Balance</h2>
       <p align="center">
-        A minimalistic water sort game.<br/>
-        Sort the liquids, complete each level and keep the balance.
+        A minimalistic water sort game but with one major twist: liquid weight.<br/>
       </p>
       <a href="https://github.com/overlord-repo">
         <img height="25" src="https://img.shields.io/badge/Co--authored%20with-overlord--repo-1c1f24?style=for-the-badge&logo=github&logoColor=white"
