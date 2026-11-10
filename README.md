@@ -1,64 +1,74 @@
 <h1 align="center">rvrsdev</h1>
 
 <p align="center">
-  I'm mainly an indie game developer, but I'm also interested in music and web development.
+  I'm mainly an indie game developer, but I'm also interested in music and web development. <br> Currently working on riked.pl
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white" alt="Godot" />
-  <img src="https://img.shields.io/badge/Arch-1793D1?style=for-the-badge&logo=archlinux&logoColor=white" alt="Arch" />
-  <img src="https://img.shields.io/badge/Hyprland-1E1E2E?style=for-the-badge&logo=hyprland&logoColor=58E1FF" alt="Hyprland" />
-  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
-  <img src="https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white" alt="Railway" />
-  <img src="https://img.shields.io/badge/LangChain-7FC8FF?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white" alt="CSS" />
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
-  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" alt="Android Studio" />
-  <img src="https://img.shields.io/badge/Obsidian-7C3AED?style=for-the-badge&logo=obsidian&logoColor=white" alt="Obsidian" />
-  <img src="https://img.shields.io/badge/Notion-000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
-  <img src="https://img.shields.io/badge/GIMP-5C5543?style=for-the-badge&logo=gimp&logoColor=white" alt="GIMP" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-  <img src="https://img.shields.io/badge/Penpot-000?style=for-the-badge&logo=penpot&logoColor=white" alt="Penpot" />
-  <img src="https://img.shields.io/badge/Inkscape-000?style=for-the-badge&logo=inkscape&logoColor=white" alt="Inkscape" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+<h2 align="center">Tech stack</h2>
+<p>
+  Main stack: <br>
+  <img height="25" src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white&size=10" alt="Godot"/>
+  <img height="25" src="https://img.shields.io/badge/Arch-1793D1?style=for-the-badge&logo=archlinux&logoColor=white" alt="Arch"/>
+  <img height="25" src="https://img.shields.io/badge/Hyprland-1E1E2E?style=for-the-badge&logo=hyprland&logoColor=58E1FF" alt="Hyprland"/>
 </p>
 
-<h2 align="center"> My projects</h2>
-<table width="100%" border="0" cellspacing="0" cellpadding="0" align="center">
-  <tr>
-    <td width="256" align="center" valign="center">
-      <img src="fluid_balance_icon_rounded.png" width="256" alt="Fluid Balance icon" />
-      <br/>
-      <a href="https://play.google.com/store/apps/details?id=com.riverstudio.fluidbalance">
-        <img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png"
-             alt="Get it on Google Play"
-             height="128" />
-      </a>
-    </td>
-    <td align="center" valign="middle">
-      <h2 align="center">Fluid Balance</h2>
-      <p align="center">
-        A minimalistic water sort game but with one major twist: liquid weight.<br/>
-      </p>
-      <a href="https://github.com/overlord-repo">
-        <img height="25" src="https://img.shields.io/badge/Co--authored%20with-overlord--repo-1c1f24?style=for-the-badge&logo=github&logoColor=white"
-         alt="Co-authored with overlord-repo" />
-      </a>
-       <p align="center">
-        <img src="fb1.jpg" height="256" alt="Fluid Balance screenshot 1" />
-        <img src="fb2.jpg" height="256" alt="Fluid Balance screenshot 2" />
-        <img src="fb3.jpg" height="256" alt="Fluid Balance screenshot 3" />
-      </p>
-    </td>
-  </tr>
-</table>
+<p>
+  Web: <br>
+  <img height="25" src="https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
+  <img height="25" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img height="25" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img height="25" src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
+  <img height="25" src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+  <img height="25" src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white" alt="CSS"/>
+</p>
+
+<p>
+  Deploying: <br>
+  <img height="25" src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare"/>
+  <img height="25" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
+  <img height="25" src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white" alt="Railway"/>
+  <img height="25" src="https://img.shields.io/badge/Docker-478CBF?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+</p>
+
+<p>
+  Data and AI: <br>
+  <img height="25" src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
+  <img height="25" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img height="25" src="https://img.shields.io/badge/LangChain-7FC8FF?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
+</p>
+
+<p>
+  Mobile: <br>
+  <img height="25" src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
+  <img height="25" src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" alt="Android Studio" />
+</p>
+
+<p>
+  Design & Notes: <br>
+  <img height="25" src="https://img.shields.io/badge/Obsidian-7C3AED?style=for-the-badge&logo=obsidian&logoColor=white" alt="Obsidian" />
+  <img height="25" src="https://img.shields.io/badge/Notion-000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
+  <img height="25" src="https://img.shields.io/badge/GIMP-5C5543?style=for-the-badge&logo=gimp&logoColor=white" alt="GIMP" />
+  <img height="25" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img height="25" src="https://img.shields.io/badge/Penpot-000?style=for-the-badge&logo=penpot&logoColor=white" alt="Penpot" />
+  <img height="25" src="https://img.shields.io/badge/Inkscape-000?style=for-the-badge&logo=inkscape&logoColor=white" alt="Inkscape"
+</p>
+
+<p>
+  Basics: <br>
+  <img height="25" src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" alt="C#"/>
+  <img height="25" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img height="25" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+  <img height="25" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+</p>
+
+<h2 align="center">Projects</h2>
+<p>
+  <a target="_blank" href="https://play.google.com/store/apps/details?id=com.riverstudio.fluidbalance">Fluid Balance</a> - minimalistic water sort game but with one major twist: liquid weight. Available now on Google Play.
+  Made with Godot Engine 4. <br> 
+  <a href="https://github.com/overlord-repo">
+  <img height="25" src="https://img.shields.io/badge/Co--authored%20with-overlord--repo-1c1f24?style=for-the-badge&logo=github&logoColor=white"
+     alt="Co-authored with overlord-repo" />
+</p>
+  
+
+
