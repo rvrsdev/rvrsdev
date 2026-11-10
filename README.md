@@ -1,4 +1,6 @@
 <h1>rvrsdev</h1>
+<img src="godot_emoji_14.png" height="50"/>
+
 Fellow Godot Engine and Linux enjoyer. Also interested in music and web development. <br/> Currently working on <a target="_blank" href="https://riked.pl">riked.pl</a>
 
 <h2>Projects</h2>
