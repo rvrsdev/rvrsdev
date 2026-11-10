@@ -28,15 +28,8 @@
 <p>
   <b>Backend</b> <br>
   <img height="25" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img height="25" src="https://img.shields.io/badge/Fastapi-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="Fastapi"/>
-</p>
-
-<p>
-  <b>Data and AI</b> <br>
   <img height="25" src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
-  <img height="25" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
   <img height="25" src="https://img.shields.io/badge/LangChain-7FC8FF?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
-  <img height="25" src="https://img.shields.io/badge/Openrouter-000?style=for-the-badge&logo=openrouter&logoColor=dark" alt="OpenRouter"/>
 </p>
 
 <p>
