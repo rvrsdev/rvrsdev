@@ -23,6 +23,10 @@ Fellow Godot Engine and Linux enjoyer. Also interested in music and web developm
 <p>
  <a target="_blank" href="https://riked.pl">riked.pl</a> - website for a polish window repair service with an AI chatbot feature. Website build with Next JS, deployed with Cloudflare workers. AI bot written in python using LangGraph framework, deployed with Railway.
 </p>
+
+<p>
+  <a target="_blank" href="https://github.com/rvrsdev/AppMetricaSDKGodotAndroid">AppMetricaSDKGodotAndroid</a> -  a Godot Engine Android plugin for the <a target="_blank" href="https://appmetrica.yandex.com/about">AppMetrica</a> analytics service. Written in Kotlin. 
+</p>
   
 
 
