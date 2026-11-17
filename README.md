@@ -27,6 +27,10 @@ Fellow Godot Engine and Linux enjoyer. Also interested in music and web developm
 <p>
   <a target="_blank" href="https://github.com/rvrsdev/AppMetricaSDKGodotAndroid">AppMetricaSDKGodotAndroid</a> -  a Godot Engine Android plugin for the <a target="_blank" href="https://appmetrica.yandex.com/about">AppMetrica</a> analytics service. Written in Kotlin. 
 </p>
+
+<p>
+  <a target="_blank" href="https://github.com/rvrsdev/waycalc">waycalc</a> - Simple calculator widget for Wayland written in Rust. 
+</p>
   
 
 
